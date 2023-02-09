@@ -434,7 +434,7 @@ pre {
   }
 }
 
-.container { /*youtube videos*/
+.youtube { /*youtube videos*/
   position: relative;
   overflow: hidden;
   width: 100%;
