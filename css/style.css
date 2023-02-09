@@ -208,7 +208,7 @@ pre {
 
 /* Cloud */
 .cloud .grid {
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 2fr 2fr;
 }
 
 /* Languages */
