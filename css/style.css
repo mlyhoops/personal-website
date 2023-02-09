@@ -208,19 +208,42 @@ pre {
 
 /* Cloud */
 .cloud .grid {
-  grid-template-columns: 4fr 3fr;
-  margin: auto;
+  //grid-template-columns: 4fr 3fr;
   height: 400px;
+  background-color: var(--primary-color);
+  color: #fff;
   position: relative;
 }
 
 .cloud1 {
   height: auto;
+  background-color: var(--primary-color);
+  color: #fff;
   position: relative;
   overflow: hidden;
   padding-top: 40px;
   padding-bottom: 5%;
 }
+
+.cloud h1 {
+  font-size: 40px;
+}
+
+.cloud p {
+  margin: 20px 0;
+}
+
+.cloud .grid {
+  overflow: visible;
+  /*grid-template-columns: 55% auto;*/
+  gap: 30px;
+}
+
+.cloud-text {
+  animation: slideInFromLeft 1s ease-in;
+  padding-bottom: 100px;
+}
+
 
 /* Languages */
 
