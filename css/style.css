@@ -235,7 +235,7 @@ pre {
 /* Education */
 
 .education .flex {
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .education .card {
