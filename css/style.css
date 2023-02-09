@@ -302,9 +302,6 @@ pre {
 /* Footer */
 .footer .social a {
   margin: 0 10px;
-  position:fixed;
-  bottom:0;
-  left:0;
 }
 
 .fa-github:hover {
