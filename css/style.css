@@ -210,6 +210,16 @@ pre {
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
   margin: auto;
+  height: 400px;
+  position: relative;
+}
+
+.cloud1 {
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  padding-top: 40px;
+  padding-bottom: 5%;
 }
 
 /* Languages */
