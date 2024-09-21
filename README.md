@@ -2,4 +2,4 @@
 
 My personal website where I will be putting my resume and personal projects up.
 
-www.matthewyamamoto.com
+https://resume.mattyamstorage.com
